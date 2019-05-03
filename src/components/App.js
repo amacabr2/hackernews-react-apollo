@@ -1,11 +1,9 @@
-import React from 'react';
-import '../styles/App.css';
+import React from 'react'
+import LinkList from './LinkList'
 
 function App() {
   return (
-    <div className="App">
-      Bonjour
-    </div>
+    <LinkList />
   );
 }
 
