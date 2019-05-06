@@ -1,5 +1,29 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Subject
+
+This application is a link list with the ability to vote for each of them done.
+
+### Features 
+ - Display a list of links
+ - Search the list of links
+ - Users can authenticate
+ - Authenticated users can create new links
+ - Authenticated users can upvote links (one vote per link and user)
+ - Realtime updates when other users upvote a link or create a new one
+ - In this track, you’ll use the following technologies for building the app:
+
+### Technologies
+
+Frontend:
+ - React: Frontend framework for building user interfaces
+ - Apollo Client 2.1: Production-ready, caching GraphQL client
+
+Backend:
+ - graphql-yoga: Fully-featured GraphQL Server with focus on easy setup, performance & great developer experience
+ - Prisma: Open-source GraphQL API layer that turns your database into a GraphQL API
+
+
 ## Available Scripts
 
 In the project directory, you can run:
